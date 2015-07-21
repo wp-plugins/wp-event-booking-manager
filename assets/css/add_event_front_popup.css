@@ -1,0 +1,78 @@
+#addeventbooking_frontdialog .multiselect {
+	text-align: left;
+}
+#addeventbooking_frontdialog .multiselect-container li.active .checkbox{
+	background-color:#3A83C2;
+}
+#addeventbooking_frontdialog li .active{
+	color: red;
+}
+#addeventbooking_frontdialog li {
+	margin-bottom: 0px;
+}
+#addeventbooking_frontdialog #namediv input{
+	width: 70%;
+}
+#addeventbooking_frontdialog .ui-dialog .ui-dialog-titlebar-close span {
+		margin: -8px!important;
+}
+/**/
+#addeventbooking_frontdialog #frmbooking select, button, input, textarea {
+	border:1px solid #E2E2E2;
+	/*margin:5px;*/
+}
+#addeventbooking_frontdialog #frmbooking label {
+	margin:3px;
+	width:135px;
+}
+#addeventbooking_frontdialog span{font-size:12px;}
+#addeventbooking_frontdialog #frmbooking table{
+	width: 50%;
+}
+#addeventbooking_frontdialog table, th, td {
+    border: none;
+}
+#addeventbooking_frontdialog #frmbooking table tr td{
+	padding:3px;
+}
+#addeventbooking_frontdialog input.rounded {
+	border: 1px solid #ccc;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	/*-moz-box-shadow: 2px 2px 3px #666;
+	-webkit-box-shadow: 2px 2px 3px #666;
+	box-shadow: 2px 2px 3px #666;*/
+	font-size: 20px;
+	padding: 4px 7px;
+	outline: 0;
+	-webkit-appearance: none;
+}
+#addeventbooking_frontdialog select.rounded {
+	border: 1px solid #ccc;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	/*-moz-box-shadow: 2px 2px 3px #666;
+	-webkit-box-shadow: 2px 2px 3px #666;
+	box-shadow: 2px 2px 3px #666;*/
+	font-size: 20px;
+	padding: 4px 7px;
+	outline: 0;
+	-webkit-appearance: none;
+}
+#addeventbooking_frontdialog input.rounded:focus {
+	border-color: #4CB7FF;
+}
+#addeventbooking_frontdialog .ui-dialog {
+	z-index:3000!important;
+}
+/*-------theme css override------*/
+#addeventbooking_frontdialog #frmbooking select, input[type="text"]{
+	height: 30px;
+	font-size:12px;
+	width:95%;
+}	
+#addeventbooking_frontdialog #frmbooking{
+	font-size:13px;
+}
