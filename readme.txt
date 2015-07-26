@@ -5,6 +5,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=upscalet
 Tags: booking, event, event management, event ticket booking, event booking, ticket booking, doctors event, admin, administration, AJAX, event, availability, availability calendar, lawer event scheduling booking, Book, Booking calendar, booking form, booking system, booking engine, booking module, booking plugin, calendar, contact form, parties event registration,ticketing,event ticket booking,conference booking,online event registration booking calendar, online reservation, Reservation, reservation calendar, reservations, reservation plugin, event scheduling, event management, event planner, date blocker, jquery, management, meeting, Meeting event scheduling, Organizer, rent, Rental, reservation system, event calendar, event system, sponsor, to book, tutors event booking, summits event booking, singer event scheduling booking, php event booking system, php mysql event booking calendar, wordpress online event registration booking, wordpress event schedule reservation, Wordpress event ticket booking, wordpress event ticket booking script, gatherings event booking,appointment ticketing,photographer event scheduling booking registration, wp event calendar booking manager, wp  event calendar ticket reservation system, wp reservation script
 
 Requires at least: 3.3.0
+Tested up to: 4.2
 Stable tag: 1.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
